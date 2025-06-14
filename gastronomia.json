@@ -1,0 +1,50 @@
+[
+  {
+    "region": "Costa",
+    "plato": "Encebollado",
+    "descripcion": "Sopa de pescado con yuca, cebolla encurtida y limón. Ideal para el desayuno costeño.",
+    "imagen": "https://comedera.com/wp-content/uploads/sites/9/2022/08/Encebollado-ecuatoriano-shutterstock_270241418.jpg?w=4096"
+  },
+  {
+    "region": "Costa",
+    "plato": "Ceviche de camarón",
+    "descripcion": "Mariscos cocidos en limón con cebolla, tomate, cilantro y acompañado de chifles.",
+    "imagen": "https://comedera.com/wp-content/uploads/sites/9/2022/08/Ceviche-de-camarones-ecuatoriano-shutterstock_1997166494.jpg"
+  },
+  {
+    "region": "Sierra",
+    "plato": "Hornado",
+    "descripcion": "Cerdo asado lentamente, acompañado de mote, tortillas de papa y ensalada.",
+    "imagen": "https://www.recetasnestle.com.ec/sites/default/files/srh_recipes/144ff6fad3865ecc6d5d5d3a0daacd06.jpg"
+  },
+  {
+    "region": "Sierra",
+    "plato": "Locro de papa",
+    "descripcion": "Sopa espesa de papas con queso y aguacate, típica de la Sierra andina.",
+    "imagen": "https://www.bonella.com.ec/-/media/Project/Upfield/Brands/Rama/Rama-EC/Assets/Recipes/sync-img/1e7b3493-d630-421a-9c3a-35156540d88d.jpg?rev=d860b5d4b7d444bdb24564d04a242a53&w=900"
+  },
+  {
+    "region": "Amazonía",
+    "plato": "Maito de pescado",
+    "descripcion": "Pescado envuelto en hojas de bijao y cocinado al fuego, acompañado de yuca.",
+    "imagen": "https://img.eloriente.com/pics/nocrop/1280x960/6cdc13d2fee3f748002a1d75c4b44ee6573a6ca2.png"
+  },
+  {
+    "region": "Amazonía",
+    "plato": "Chontacuro",
+    "descripcion": "Larva comestible rica en proteínas, típica de la dieta ancestral amazónica.",
+    "imagen": "https://img.goraymi.com/2018/01/29/12e0c8a0415ebade8ed138fdb2f9dfd9_xl.jpg"
+  },
+  {
+    "region": "Galápagos",
+    "plato": "Langosta galapagueña",
+    "descripcion": "Langosta fresca capturada artesanalmente, preparada al ajillo o a la parrilla.",
+    "imagen": "https://www.turismo.gob.ec/wp-content/uploads/2021/09/d1d69ffc-d4b4-49c6-a38b-d695a6a2c42d.jpeg"
+  },
+  {
+    "region": "Galápagos",
+    "plato": "Ceviche de canchalagua",
+    "descripcion": "Ceviche preparado con moluscos endémicos, limón, tomate, cebolla y cilantro.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScg_aFwv8U_MdY9LEDlJoRc2mHQA04ltsYtg&s"
+  }
+]

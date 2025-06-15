@@ -1,0 +1,58 @@
+[
+  {
+    "nombre": "Carnaval",
+    "region": "Costa, Sierra, Amazonía",
+    "fecha": "Febrero (varía según el año)",
+    "descripcion": "Fiesta popular con juegos de agua, desfiles, danzas y comidas típicas. Se celebra en todo el país, especialmente en Guaranda y Ambato.",
+    "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/EWSDEH2VJZFYVHYU7NAIJGSVZY.jpg"
+  },
+  {
+    "nombre": "Fiesta de la Fruta y de las Flores",
+    "region": "Sierra",
+    "fecha": "Febrero",
+    "descripcion": "Celebración cultural de Ambato con desfiles de carros alegóricos, exposiciones, música y danzas.",
+    "imagen": "https://www.patrimoniocultural.gob.ec/wp-content/uploads/2017/04/Fiesta-flores-y-fruta2.jpg"
+  },
+  {
+    "nombre": "Semana Santa",
+    "region": "Todo el país",
+    "fecha": "Marzo/Abril",
+    "descripcion": "Celebración religiosa con procesiones, especialmente la del Jesús del Gran Poder en Quito. También es tradicional la fanesca.",
+    "imagen": "https://www.notyouraverageamerican.es/wp-content/uploads/2015/04/1795.jpg"
+  },
+  {
+    "nombre": "Inti Raymi",
+    "region": "Sierra",
+    "fecha": "Junio",
+    "descripcion": "Fiesta del sol y la cosecha, celebrada por pueblos indígenas con danzas, rituales y música ancestral.",
+    "imagen": "https://www.turismo.gob.ec/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-17-at-09.11.09.jpeg"
+  },
+  {
+    "nombre": "Fiestas de Guayaquil",
+    "region": "Costa",
+    "fecha": "Julio (25 de julio)",
+    "descripcion": "Conmemoración de la fundación de Guayaquil. Incluye desfiles cívicos, ferias, conciertos y fuegos artificiales.",
+    "imagen": "https://media.elcomercio.com/wp-content/uploads/2023/06/fiestas-julianas-guayaquil-2023.jpg"
+  },
+  {
+    "nombre": "Fiestas de Quito",
+    "region": "Sierra",
+    "fecha": "Diciembre (6 de diciembre)",
+    "descripcion": "Semana de festividades por la fundación de Quito. Incluye desfiles, conciertos, toros de pueblo y chivas quiteñas.",
+    "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2024/12/03/674f4d964034a.jpeg"
+  },
+  {
+    "nombre": "Día de los Difuntos",
+    "region": "Todo el país",
+    "fecha": "2 de noviembre",
+    "descripcion": "Jornada para recordar a los fallecidos. Se acostumbra preparar colada morada y guaguas de pan.",
+    "imagen": "https://media.elcomercio.com/wp-content/uploads/2024/10/Dia-Difuntos-Ecuador-1024x683.jpg"
+  },
+  {
+    "nombre": "Fin de año con monigotes",
+    "region": "Todo el país",
+    "fecha": "31 de diciembre",
+    "descripcion": "Tradición popular de quemar muñecos (monigotes) que representan el año viejo, junto con 'testamentos' humorísticos.",
+    "imagen": "https://i.ytimg.com/vi/xDCvL0hySFw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDqCx2AWSPosX9_-bcF3ZIbmSiofg"
+  }
+]
